@@ -1,0 +1,20 @@
+<div className="mensagem usuario">
+    <h2 className="usuario_name">Usuário</h2>
+    <p className="mensagem_usuario">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure
+        fugit expedita molestias, quod perferendis asperiores modi cumque
+        nemo recusandae voluptate officia dolorum quos ut. Velit eos
+        mollitia placeat repellat eveniet.
+    </p>
+</div>
+
+<div className="mensagem cliente">
+    <h2 className="usuario_name">Cliente</h2>
+    <p className="mensagem_usuario">
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam
+        nam magni magnam necessitatibus, tempora quisquam accusamus harum
+        libero officiis voluptatem, voluptatum et debitis, laboriosam earum
+        saepe ipsum perspiciatis ad mollitia.
+    </p>
+    <button className="apagar_mensagem">Apagar</button>
+</div>
